@@ -1,0 +1,169 @@
+2021-08-12 02:42:40 INFO  Main:15 - Program started
+2021-08-12 02:42:46 INFO  LandingMenu:34 - New Customer Account
+2021-08-12 02:49:15 INFO  Main:15 - Program started
+2021-08-12 02:49:18 INFO  LandingMenu:34 - New Customer Account
+2021-08-12 02:50:42 INFO  Main:15 - Program started
+2021-08-12 02:50:45 INFO  LandingMenu:34 - New Customer Account
+2021-08-12 02:51:20 INFO  Main:15 - Program started
+2021-08-12 02:51:23 INFO  LandingMenu:34 - New Customer Account
+2021-08-12 03:24:25 INFO  Main:15 - Program started
+2021-08-12 03:24:31 INFO  LandingMenu:68 - Create a new Account
+2021-08-12 03:26:33 INFO  Main:15 - Program started
+2021-08-12 03:26:36 INFO  LandingMenu:68 - Create a new Account
+2021-08-12 03:26:51 INFO  LandingMenu:87 - Customer Login
+2021-08-12 03:27:04 INFO  LandingMenu:101 - Employee Login
+2021-08-12 03:27:46 INFO  LandingMenu:34 - New Customer Account
+2021-08-12 03:30:05 INFO  Main:15 - Program started
+2021-08-12 03:30:08 INFO  LandingMenu:34 - New Customer Account
+2021-08-12 03:30:19 INFO  Main:15 - Program started
+2021-08-12 03:30:24 INFO  LandingMenu:34 - New Customer Account
+2021-08-12 03:30:58 INFO  Main:15 - Program started
+2021-08-12 03:31:00 INFO  LandingMenu:34 - New Customer Account
+2021-08-12 03:31:39 INFO  Main:15 - Program started
+2021-08-12 03:31:42 INFO  LandingMenu:34 - New Customer Account
+2021-08-12 03:32:00 INFO  Main:15 - Program started
+2021-08-12 03:32:01 INFO  LandingMenu:34 - New Customer Account
+2021-08-12 03:37:36 INFO  Main:15 - Program started
+2021-08-12 03:37:38 INFO  LandingMenu:34 - New Customer Account
+2021-08-12 03:37:58 INFO  LandingMenu:87 - Customer Login
+2021-08-12 03:38:16 INFO  LandingMenu:101 - Employee Login
+2021-08-12 03:38:30 INFO  LandingMenu:112 - Quitting
+2021-08-12 03:38:40 INFO  Main:15 - Program started
+2021-08-12 03:38:43 INFO  LandingMenu:34 - New Customer Account
+2021-08-12 03:42:13 INFO  Main:15 - Program started
+2021-08-12 03:42:16 INFO  LandingMenu:34 - New Customer Account
+2021-08-12 03:42:35 INFO  LandingMenu:87 - Customer Login
+2021-08-12 03:42:44 INFO  LandingMenu:87 - Customer Login
+2021-08-12 03:43:12 INFO  LandingMenu:68 - Create a new Account
+2021-08-12 03:43:31 INFO  LandingMenu:87 - Customer Login
+2021-08-12 03:43:35 INFO  LandingMenu:101 - Employee Login
+2021-08-12 03:43:42 INFO  Main:15 - Program started
+2021-08-12 03:47:59 INFO  Main:15 - Program started
+2021-08-12 03:50:40 INFO  Main:15 - Program started
+2021-08-12 03:50:43 INFO  LandingMenu:101 - Employee Login
+2021-08-12 03:51:02 INFO  LandingMenu:101 - Employee Login
+2021-08-12 03:51:08 INFO  LandingMenu:87 - Customer Login
+2021-08-12 03:51:25 INFO  CMenu:35 - Reached Customer Menu
+2021-08-12 03:51:34 INFO  CMenu:43 - Making a deposit
+2021-08-12 03:51:51 INFO  CMenu:43 - Making a deposit
+2021-08-12 03:52:22 INFO  Main:15 - Program started
+2021-08-12 03:55:05 INFO  Main:15 - Program started
+2021-08-12 03:55:27 INFO  Main:15 - Program started
+2021-08-12 03:55:32 INFO  LandingMenu:34 - New Customer Account
+2021-08-12 03:55:45 INFO  LandingMenu:68 - Create a new Account
+2021-08-12 03:55:54 INFO  LandingMenu:87 - Customer Login
+2021-08-12 03:56:07 INFO  LandingMenu:87 - Customer Login
+2021-08-12 03:56:11 INFO  LandingMenu:101 - Employee Login
+2021-08-12 03:56:17 INFO  LandingMenu:101 - Employee Login
+2021-08-12 03:56:23 INFO  LandingMenu:101 - Employee Login
+2021-08-12 03:56:56 INFO  LandingMenu:101 - Employee Login
+2021-08-12 04:03:29 INFO  Main:15 - Program started
+2021-08-12 04:05:39 INFO  Main:15 - Program started
+2021-08-12 04:07:17 INFO  Main:15 - Program started
+2021-08-12 04:09:24 INFO  Main:15 - Program started
+2021-08-12 04:16:37 INFO  Main:15 - Program started
+2021-08-12 04:18:17 INFO  Main:15 - Program started
+2021-08-12 04:20:23 INFO  Main:15 - Program started
+2021-08-12 04:20:32 INFO  Main:15 - Program started
+2021-08-12 04:21:27 INFO  Main:15 - Program started
+2021-08-12 04:21:57 INFO  LinkedMainMenu:34 - New Customer Account
+2021-08-12 04:24:32 INFO  Main:15 - Program started
+2021-08-12 04:24:57 INFO  LinkedMainMenu:34 - New Customer Account
+2021-08-12 04:25:09 INFO  LinkedMainMenu:68 - Create a new Account
+2021-08-12 04:25:20 INFO  LinkedMainMenu:87 - Customer Login
+2021-08-12 04:25:24 INFO  LinkedMainMenu:87 - Customer Login
+2021-08-12 04:25:31 INFO  LinkedMainMenu:87 - Customer Login
+2021-08-12 04:25:33 INFO  LinkedCustomerMainMenu:35 - LinkedCustomerMainMenu
+2021-08-12 04:25:41 INFO  LinkedCustomerMainMenu:182 - Bank Creation Service
+2021-08-12 04:26:00 INFO  Main:15 - Program started
+2021-08-12 04:26:05 INFO  LinkedMainMenu:87 - Customer Login
+2021-08-12 04:26:08 INFO  LinkedCustomerMainMenu:35 - LinkedCustomerMainMenu
+2021-08-12 04:26:12 INFO  LinkedCustomerMainMenu:182 - Bank Creation Service
+2021-08-12 04:26:35 INFO  Main:15 - Program started
+2021-08-12 04:27:54 INFO  LinkedMainMenu:101 - Employee Login
+2021-08-12 04:28:01 INFO  LinkedMainMenu:101 - Employee Login
+2021-08-12 04:28:05 INFO  LinkedMainMenu:101 - Employee Login
+2021-08-12 04:29:31 INFO  Main:15 - Welcome to Banking App
+2021-08-12 04:29:34 INFO  LinkedMainMenu:87 - Customer Login
+2021-08-12 04:29:36 INFO  LinkedCustomerMainMenu:35 - LinkedCustomerMainMenu
+2021-08-12 04:29:40 INFO  LinkedCustomerMainMenu:43 - Deposit money
+2021-08-12 04:29:56 INFO  LinkedCustomerMainMenu:43 - Deposit money
+2021-08-12 04:30:08 INFO  Main:15 - Welcome to Banking App
+2021-08-12 04:30:13 INFO  LinkedMainMenu:87 - Customer Login
+2021-08-12 04:30:15 INFO  LinkedCustomerMainMenu:35 - LinkedCustomerMainMenu
+2021-08-12 04:30:17 INFO  LinkedCustomerMainMenu:43 - Deposit money
+2021-08-12 04:31:51 INFO  Main:15 - Welcome to Banking App
+2021-08-12 04:31:53 INFO  LinkedMainMenu:87 - Customer Login
+2021-08-12 04:31:59 INFO  LinkedCustomerMainMenu:35 - LinkedCustomerMainMenu
+2021-08-12 04:32:02 INFO  LinkedCustomerMainMenu:43 - Deposit money
+2021-08-12 04:32:21 INFO  Main:15 - Welcome to Banking App
+2021-08-12 04:32:23 INFO  LinkedMainMenu:87 - Customer Login
+2021-08-12 04:32:24 INFO  LinkedCustomerMainMenu:35 - LinkedCustomerMainMenu
+2021-08-12 04:32:26 INFO  LinkedCustomerMainMenu:43 - Deposit money
+2021-08-12 04:32:42 INFO  Main:15 - Welcome to Banking App
+2021-08-12 04:33:13 INFO  LinkedMainMenu:87 - Customer Login
+2021-08-12 04:33:15 INFO  LinkedCustomerMainMenu:35 - LinkedCustomerMainMenu
+2021-08-12 04:33:16 INFO  LinkedCustomerMainMenu:43 - Deposit money
+2021-08-12 04:33:42 INFO  Main:15 - Welcome to Banking App
+2021-08-12 04:33:44 INFO  LinkedMainMenu:87 - Customer Login
+2021-08-12 04:33:48 INFO  LinkedCustomerMainMenu:35 - LinkedCustomerMainMenu
+2021-08-12 04:33:49 INFO  LinkedCustomerMainMenu:43 - Deposit money
+2021-08-12 04:34:39 INFO  Main:15 - Welcome to Banking App
+2021-08-12 04:34:46 INFO  LinkedMainMenu:87 - Customer Login
+2021-08-12 04:34:49 INFO  LinkedCustomerMainMenu:35 - LinkedCustomerMainMenu
+2021-08-12 04:35:00 INFO  LinkedCustomerMainMenu:43 - Deposit money
+2021-08-12 04:37:53 INFO  Main:15 - Welcome to Banking App
+2021-08-12 04:37:54 INFO  LinkedMainMenu:87 - Customer Login
+2021-08-12 04:38:00 INFO  LinkedCustomerMainMenu:35 - LinkedCustomerMainMenu
+2021-08-12 04:38:02 INFO  LinkedCustomerMainMenu:43 - Deposit money
+2021-08-12 04:38:39 INFO  Main:15 - Welcome to Banking App
+2021-08-12 04:43:06 INFO  Main:15 - Welcome to Banking App
+2021-08-12 04:43:09 INFO  LinkedMainMenu:34 - New Customer Account
+2021-08-12 04:43:33 INFO  LinkedMainMenu:68 - Create a new Account
+2021-08-12 04:43:46 INFO  LinkedMainMenu:87 - Customer Login
+2021-08-12 04:43:47 INFO  LinkedCustomerMainMenu:35 - LinkedCustomerMainMenu
+2021-08-12 04:43:49 INFO  LinkedCustomerMainMenu:43 - Deposit money
+2021-08-12 04:44:02 INFO  Main:15 - Welcome to Banking App
+2021-08-12 04:44:04 INFO  LinkedMainMenu:87 - Customer Login
+2021-08-12 04:44:08 INFO  LinkedCustomerMainMenu:35 - LinkedCustomerMainMenu
+2021-08-12 04:44:10 INFO  LinkedCustomerMainMenu:66 - Withdraw money
+2021-08-12 04:44:35 INFO  LinkedCustomerMainMenu:66 - Withdraw money
+2021-08-12 04:44:51 INFO  Main:15 - Welcome to Banking App
+2021-08-12 04:44:53 INFO  LinkedMainMenu:87 - Customer Login
+2021-08-12 04:44:56 INFO  LinkedCustomerMainMenu:35 - LinkedCustomerMainMenu
+2021-08-12 04:44:58 INFO  LinkedCustomerMainMenu:66 - Withdraw money
+2021-08-12 04:45:10 INFO  Main:15 - Welcome to Banking App
+2021-08-12 04:45:26 INFO  LinkedMainMenu:87 - Customer Login
+2021-08-12 04:45:28 INFO  LinkedCustomerMainMenu:35 - LinkedCustomerMainMenu
+2021-08-12 04:45:31 INFO  LinkedCustomerMainMenu:239 - Viewing balance
+2021-08-12 04:46:50 INFO  LinkedCustomerMainMenu:102 - Transfer funds
+2021-08-12 04:47:36 INFO  Main:15 - Welcome to Banking App
+2021-08-12 04:47:43 INFO  LinkedMainMenu:87 - Customer Login
+2021-08-12 04:47:48 INFO  LinkedCustomerMainMenu:35 - LinkedCustomerMainMenu
+2021-08-12 04:47:55 INFO  LinkedCustomerMainMenu:239 - Viewing balance
+2021-08-12 04:48:00 INFO  LinkedCustomerMainMenu:239 - Viewing balance
+2021-08-12 04:48:06 INFO  LinkedCustomerMainMenu:239 - Viewing balance
+2021-08-12 04:48:14 INFO  LinkedCustomerMainMenu:239 - Viewing balance
+2021-08-12 04:48:21 INFO  LinkedCustomerMainMenu:248 - Logging out
+2021-08-12 04:48:27 INFO  LinkedMainMenu:101 - Employee Login
+2021-08-12 04:49:15 INFO  LinkedMainMenu:101 - Employee Login
+2021-08-12 04:49:25 INFO  LinkedMainMenu:101 - Employee Login
+2021-08-12 04:49:33 INFO  Main:15 - Welcome to Banking App
+2021-08-12 04:49:35 INFO  LinkedMainMenu:101 - Employee Login
+2021-08-12 04:50:09 INFO  LinkedMainMenu:87 - Customer Login
+2021-08-12 04:50:11 INFO  LinkedCustomerMainMenu:35 - LinkedCustomerMainMenu
+2021-08-12 04:50:18 INFO  LinkedCustomerMainMenu:102 - Transfer funds
+2021-08-12 04:51:49 INFO  Main:15 - Welcome to Banking App
+2021-08-12 04:51:53 INFO  LinkedMainMenu:87 - Customer Login
+2021-08-12 04:51:55 INFO  LinkedCustomerMainMenu:35 - LinkedCustomerMainMenu
+2021-08-12 04:52:00 INFO  LinkedCustomerMainMenu:43 - Deposit money
+2021-08-12 04:52:55 INFO  Main:15 - Welcome to Banking App
+2021-08-12 04:52:57 INFO  LinkedMainMenu:87 - Customer Login
+2021-08-12 04:52:59 INFO  LinkedCustomerMainMenu:35 - LinkedCustomerMainMenu
+2021-08-12 04:53:00 INFO  LinkedCustomerMainMenu:66 - Withdraw money
+2021-08-12 04:53:12 INFO  Main:15 - Welcome to Banking App
+2021-08-12 04:55:14 INFO  LinkedMainMenu:87 - Customer Login
+2021-08-12 04:55:18 INFO  LinkedCustomerMainMenu:35 - LinkedCustomerMainMenu
+2021-08-12 04:55:26 INFO  LinkedCustomerMainMenu:239 - Viewing balance
+2021-08-12 04:55:36 INFO  LinkedCustomerMainMenu:66 - Withdraw money
+2021-08-12 04:55:52 INFO  Main:15 - Welcome to Banking App
